@@ -12,6 +12,7 @@ mongoengine = "^0.23.1"
 flask-mongoengine = "^1.0.0"
 graphene-mongo = "^0.2.13"
 Flask-GraphQL = "^2.0.1"
+Flask-Cors = "^3.0.10"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
